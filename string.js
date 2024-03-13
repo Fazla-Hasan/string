@@ -1,6 +1,6 @@
 const country = 'Bangladesh';
 const division = "Newkhale";
-const district = `B-Baria`;
+
 // const thana = new String('Demra');
 
 // console.log(typeof thana);
